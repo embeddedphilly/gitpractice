@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_32d0b5f5",
+        "filename": "gerritReview.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1008501
+      },
+      "writtenOn": "2016-05-25T00:17:03Z",
+      "side": 1,
+      "message": "this is not necessary",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 3,
+        "endChar": 17
+      },
+      "revId": "4c524e806f60bbf1b43f65656558b6de4a9954c3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
